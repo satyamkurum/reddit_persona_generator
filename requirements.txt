@@ -1,0 +1,5 @@
+praw
+langchain
+google-generativeai
+ipython
+python-dotenv
