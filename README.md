@@ -23,10 +23,13 @@ Install all dependencies using:
 pip install -r requirements.txt
 ```
 ---
-Create a .env file in the root directory:
--REDDIT_CLIENT_ID=your_reddit_client_id
--REDDIT_CLIENT_SECRET=your_reddit_client_secret
--GOOGLE_API_KEY=your_google_gemini_api_key
+
+## Create a .env file in the root directory:
+
+- REDDIT_CLIENT_ID=your_reddit_client_id
+- REDDIT_CLIENT_SECRET=your_reddit_client_secret
+- GOOGLE_API_KEY=your_google_gemini_api_key
+
 ---
 
 ## Run
