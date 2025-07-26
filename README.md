@@ -8,7 +8,7 @@ The **Reddit Persona Generator** analyzes a Reddit user's recent activity (posts
 
 -  Fetches Reddit user data using the PRAW API
 -  Cleans and splits data for efficient input to LLMs
--  Uses Google Gemini Pro (via `google-generativeai`) for persona generation
+-  Uses Google Gemini Pro for persona generation
 -  Leverages LangChain for structured prompt handling
 -  Easy-to-use Streamlit interface (or CLI)
 -  Supports secure `.env` secrets handling
